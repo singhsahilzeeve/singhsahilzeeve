@@ -4,7 +4,7 @@
 
 ### Technical Lead at [Zeeve](https://www.zeeve.io/)
 
-**Full-Stack Engineering · System Architecture **
+Full-Stack Engineering · System Architecture 
 
 Building reliable applications, scalable backend systems, and practical engineering solutions.
 

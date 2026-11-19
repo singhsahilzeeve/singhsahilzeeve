@@ -59,12 +59,12 @@ I enjoy designing maintainable systems, solving performance and scalability chal
 ![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E3148?style=for-the-badge)
 ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-** Training completed**
+**Training completed**
 - Blockchain Basics
 - Blockchain Basics
 Solidity Smart Contract Development
 
-** Undergoing Training**
+**Undergoing Training**
 - Advanced Solidity Smart Contract Development
 
 ## 🎯 Areas of Interest
